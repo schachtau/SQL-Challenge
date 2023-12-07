@@ -1,5 +1,3 @@
-# SQL-Challenge
-
 This repository allows efficient managment of employees, of all levels, through a SQL driven database.  The database schema includes tables for departments, titles, employees, departments assignments, managers, and salaries.
 
 ## Table of Contents
