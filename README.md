@@ -1,8 +1,6 @@
 # SQL-Challenge
 
-# sql-challenge
-
-This repository contains SQL scripts to create and manage an employee database. The database schema includes tables for departments, titles, employees, department assignments, managers, and salaries.
+This repository allows efficient managment of employees, of all levels, through a SQL driven database.  The database schema includes tables for departments, titles, employees, departments assignments, managers, and salaries.
 
 ## Table of Contents
 - [Database Schema](#database-schema)
