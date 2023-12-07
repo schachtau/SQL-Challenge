@@ -12,12 +12,12 @@ This repository allows efficient managment of employees, of all levels, through 
 
 1. **departments Table:**
    - Columns:
-     - `dept_no` (Primary Key): VARCHAR
+     - `dept_no` VARCHAR (Primary Key)
      - `dept_name`: VARCHAR (Not Null)
 
 2. **titles Table:**
    - Columns:
-     - `title_id` (Primary Key): VARCHAR
+     - `title_id` VARCHAR (Primary Key)
      - `title`: VARCHAR (Not Null)
 
 3. **employees Table:**
